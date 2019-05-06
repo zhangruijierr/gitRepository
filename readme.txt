@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+zrj"第一次修改并提交" 
