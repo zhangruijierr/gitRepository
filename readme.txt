@@ -1,2 +1,2 @@
-zrj"第一次修改并提交" 
-test 
+Git is a version control system.
+Git is free software.zrjTest 
